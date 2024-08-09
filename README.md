@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ppcap
-- 👀 I’m interested in data and how to efficienyly analyse data, turn data into meaningful insights 
+- 👀 I’m interested in data and how to efficiently analyse data, turn data into meaningful insights 
 - 🌱 I’m currently learning SQL and Python  
 - 📫 How to reach me: cappnp@gmail.com 
 
